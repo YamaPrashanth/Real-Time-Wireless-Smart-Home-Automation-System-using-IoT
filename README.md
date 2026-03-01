@@ -20,6 +20,10 @@ The system controls the following appliances:
 
 When AC is turned ON, the room temperature is continuously displayed using an **LM35 temperature sensor**.
 
+## Circuit
+
+<img width="1394" height="853" alt="image" src="https://github.com/user-attachments/assets/7823700d-88e0-4f62-a297-7a4ebe336472" />
+
 ## Objective
 
 To design and implement a low-cost, real-time wireless home automation system that demonstrates:
