@@ -20,8 +20,6 @@ The system controls the following appliances:
 
 When AC is turned ON, the room temperature is continuously displayed using an **LM35 temperature sensor**.
 
----
-
 ## Objective
 
 To design and implement a low-cost, real-time wireless home automation system that demonstrates:
@@ -31,8 +29,6 @@ To design and implement a low-cost, real-time wireless home automation system th
 * LCD menu-driven interface
 * Temperature monitoring integration
 * IoT-ready system architecture
-
----
 
 ## System Working
 
@@ -69,8 +65,6 @@ To design and implement a low-cost, real-time wireless home automation system th
 * Arduino converts voltage into Celsius.
 * Temperature is shown on LCD continuously.
 
----
-
 ## Hardware Components Used
 
 * Arduino Uno
@@ -86,16 +80,12 @@ To design and implement a low-cost, real-time wireless home automation system th
 
 > 🔹 Note: In simulation, Bluetooth/WiFi communication is represented using direct serial wireless connection.
 
----
-
 ## Software Used
 
 * Arduino IDE
 * LiquidCrystal Library
 * Keypad Library
 * Serial Communication
-
----
 
 ## Skills Demonstrated
 
