@@ -84,6 +84,10 @@ To design and implement a low-cost, real-time wireless home automation system th
 
 > 🔹 Note: In simulation, Bluetooth/WiFi communication is represented using direct serial wireless connection.
 
+## Output
+<img width="1390" height="851" alt="Screenshot 2026-03-01 103245" src="https://github.com/user-attachments/assets/b1ffe4bd-18cc-4abb-96e8-8be6d17842dd" />
+
+
 ## Software Used
 
 * Arduino IDE
